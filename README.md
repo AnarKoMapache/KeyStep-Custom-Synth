@@ -2,6 +2,7 @@
 ## Paper técnico completo: conversión experimental de un Arturia KeyStep Mk1 en sintetizador digital autónomo mediante ingeniería inversa, análisis de protocolo y firmware alternativo
 
 **Autor del proyecto:** Mapache Bastardx
+
 **Nombre propuesto del proyecto:** KeyFreak  
 **Nombre del cargador custom:** KS-BootBridge  
 **Dispositivo intervenido:** Arturia KeyStep Mk1 / KeyStep 32  
