@@ -74,17 +74,6 @@ Este proyecto **sí** busca:
 
 Modificar el firmware de un equipo comercial puede dejarlo inutilizable. Todo el proceso debe considerarse experimental.
 
-Buenas prácticas para publicar en GitHub:
-
-```text
-No subir firmware oficial .led de Arturia.
-No subir dumps binarios completos del firmware original.
-No subir archivos propietarios extraídos del fabricante.
-No afirmar afiliación con Arturia.
-No usar marcas comerciales salvo de forma descriptiva.
-Pedir al usuario que use localmente su propio firmware oficial si el empaquetador lo requiere.
-```
-
 Buenas prácticas eléctricas:
 
 ```text
